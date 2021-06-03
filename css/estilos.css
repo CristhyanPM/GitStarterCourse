@@ -54,6 +54,7 @@ main {
     margin-top: 10px;
     border: 2px solid rgb(116, 116, 116);
     padding: 10px 10px;
+    text-align: center;
 }
 .master {
     color: rgb(1, 230, 230);
