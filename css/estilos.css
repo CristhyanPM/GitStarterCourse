@@ -59,3 +59,8 @@ main {
 .master {
     color: rgb(1, 230, 230);
 }
+.into-master {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: rgb(17, 185, 185);
+}
