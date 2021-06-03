@@ -34,11 +34,6 @@ main {
 .introduction {
     border: 2px solid rgb(116, 116, 116);
     text-align: center;
-<<<<<<< HEAD
-    font-family: 'Courier New', Courier, monospace;
-    color: purple;
-}
-=======
     padding: 10px 10px;
 }
 .introduction h2 {
@@ -63,4 +58,3 @@ main {
 .master {
     color: rgb(1, 230, 230);
 }
->>>>>>> cabecera
